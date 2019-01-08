@@ -1,0 +1,9 @@
+.vagrant
+**/node_modules
+**/*/node_modules
+**/dev-script
+.env
+**/config
+**/bin
+**/obj
+.vscode
